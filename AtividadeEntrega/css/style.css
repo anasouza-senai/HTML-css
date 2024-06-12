@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 :root {
-  --bg-url: url(../img/backdark.png);
+  --bg-url: url(../img/temaDark.jpg);
   --text-color: #fff;
   --stroke-color: rgba(255, 255, 255, 0.5);
   --surface-color: rgba(255, 255, 255, 0.1);
@@ -15,7 +15,7 @@
 
 /* class para criar o modo Light */
 .light {
-  --bg-url: url(../img/backgroundLight.png);
+  --bg-url: url(../img/temaLight.jpg);
   --text-color: #000;
   --stroke-color: rgba(0, 0, 0, 0.5);
   --surface-color: rgba(0, 0, 0, 0.1);

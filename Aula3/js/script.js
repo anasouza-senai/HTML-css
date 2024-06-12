@@ -10,6 +10,6 @@ const isLinght = document.documentElement.classList.contains("light");
 
 const imagem = isLinght ? "./img/perfil.JPEG" : "./img/kylie.jpg";
 
-document.querySelector("#pefil img").
+document.querySelector("#perfil img").
 setAttribute("src", imagem);
 };
