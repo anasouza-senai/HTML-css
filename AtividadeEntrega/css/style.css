@@ -6,22 +6,22 @@
 :root {
   --bg-url: url(../img/temaDark.jpg);
   --text-color: #fff;
-  --stroke-color: rgba(255, 255, 255, 0.5);
+  --stroke-color: rgba(42, 39, 39, 0.5);
   --surface-color: rgba(255, 255, 255, 0.1);
-  --surface-color-hover: rgba(255, 255, 255, 0.2);
+  --surface-color-hover: rgba(8, 0, 0, 0.51);
   --switch-bg-url: url(../img/MoonStars.svg);
-  --highlight-color: rgba(255, 255, 255, 0.3);
+  --highlight-color: rgba(214, 67, 67, 0.3);
 }
 
 /* class para criar o modo Light */
 .light {
   --bg-url: url(../img/temaLight.jpg);
   --text-color: #000;
-  --stroke-color: rgba(0, 0, 0, 0.5);
-  --surface-color: rgba(0, 0, 0, 0.1);
-  --surface-color-hover: rgba(0, 0, 0, 0.2);
+  --stroke-color: rgba(151, 95, 126, 0.5);
+  --surface-color: rgba(183, 35, 146, 0.277);
+  --surface-color-hover: rgba(44, 87, 121, 0.741);
   --switch-bg-url: url(../img/Sun.svg);
-  --highlight-color: rgba(0, 0, 0, 0.3);
+  --highlight-color: rgba(104, 221, 221, 0.3);
 }
 
 body {
